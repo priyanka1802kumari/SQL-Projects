@@ -1,0 +1,78 @@
+user_name = "alice"
+print (user_name)
+
+score = 50
+print (score)
+
+
+
+
+pi = 3.14
+print (pi)
+
+
+is_vaild = True
+print(is_vaild)
+
+
+number = "99"
+print (type(number)) 
+
+a = 10
+b = 20
+print(a+b)
+
+maths =20
+science =55
+print(maths*science)
+
+a = 10
+b = 2
+print(10/2)
+
+
+
+print(17%5)
+
+print(3**4)
+
+
+p = 1000
+r = 5
+t = 3
+
+si = (p * r * t) / 100
+print(si)
+
+
+print(15%4)
+
+aths =20
+science =55
+print(maths>=science)
+
+
+print(10!=10)
+
+age =25
+print(age < 30)
+
+
+print(50==50)
+
+x = 15
+print((x > 10) and (x < 20))
+
+score = 45
+print((score > 40) or (score > 90))
+
+print((10 > 5) and (3 < 1))
+
+check = 5 < 8
+print(check)
+
+x = 2.5
+y = 2.5
+print(x >= y)
+
+print((2 ** 3)==8)
